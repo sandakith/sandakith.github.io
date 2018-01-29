@@ -1,0 +1,8 @@
+---
+layout: post
+title: Setup a Jekyll-based Website
+date: 2018-01-28 15:09:00
+description: Moved to Github Pages after my graduate school web profile got archived
+---
+When I was in graduate school we received free web profile where you have a dedicated space to host your profile. However after graduation I got to know that my profile will be moved to the archive after a year. After some research I decided to host my site using Github pages using a suitable Jekyll Theme. After searching though suitable themes, I selected folio theme however I did not like it as it is and wanted to switch the main page from displaying blogs to display about page. While trying to do that change I accidentally discovered that someone else has the same thought and it was already done by al-folio theme.  
+
