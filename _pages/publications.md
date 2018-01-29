@@ -6,11 +6,6 @@ description: Publications by categories in reversed chronological order. Generat
 # years: [2016, 2015, 2014, 2013, 2012, 2010]
 ---
 
-{% for y in page.years %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
 #### Conference Papers
 * Gallege, L., "TruSSCom – PROPOSAL FOR TRUSTWORTHY SERVICE REPRESENTATION SELECTION AND NEGOTIATION FOR INTEGRATING SOFTWARE SYSTEMS", To appear in Proceedings of 5th ACM conference on Systems, Programming, Languages and Applications: Software for Humanity. (SPLASH '13), ACM, 2013.
 * Gallege, L., Gamege, D., Hill, J. H., and Raje, R., "Trustworthy service selection using long-term monitoring of trust contract", To appear in Proceedings of 17th IEEE International Enterprise Computing Conference (EDOC '13), IEEE, 2013.
