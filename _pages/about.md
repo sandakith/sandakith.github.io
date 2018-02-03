@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>sandakith @ gmail . com</p>
-    <p align="center"> Resume <a href="">[Online]</a> <a href="">[PDF]</a> </p>
+    <p align="center"> Résumé <a href="https://sandakith.github.io/online-cv/">[Online]</a> <a href="">[PDF]</a> </p>
 news: false
 social: true
 ---
